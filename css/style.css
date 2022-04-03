@@ -1,0 +1,135 @@
+:root {
+    --title-text-color: #212121;
+    --text-color: #757575;
+    --activ-color: #2196F3;
+}
+body {
+    background-color: #FFFFFF;
+    font-family: 'Roboto';
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.link {
+    color: #212121;
+}
+.logo-color-f {
+    color: #2196F3;
+}
+.link:hover, .link:focus {
+   color: var(--activ-color);
+}
+.logo-text {
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 1.2;
+}
+.text-header {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+.hero, .footer-bg-color {
+    background-color: #2F303A;
+}
+.hero-title, .btn, .address-color, .logo-footer {
+    color: #FFFFFF;
+}
+.hero-text { 
+font-weight: 900;
+font-size: 44px;
+line-height: 1.4;
+}
+.btn {
+background-color: #2196F3;
+}
+.btn-text {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.06em;
+}
+.title-text {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+}
+.features-title,.descripton-title, .team-title, .h2-text, .portfolio-text, .filter-text  {
+ color: var(--title-text-color);
+}
+.h2-text {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+.features-text, .team-text {
+    color: var(--text-color);
+}
+.features-text, .footer-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+.team {
+    background-color:#F5F4FA;
+}
+.team-card {
+width: 270px;
+background-color: #FFFFFF;
+}
+.team-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+.h4-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+.contakt-color {
+    color: rgba(255, 255, 255, 0.6);
+}
+.logo-footer {
+    color: #FFFFFF;
+}
+.address-text {
+    font-style: normal;
+} 
+.filter-text {
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+}
+.h2-text {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+.portfolio-card {
+    width: 270px;
+    var ()
+}
+.portfolio-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.88;
+    letter-spacing: 0.03em;
+    text-align: center;
+}

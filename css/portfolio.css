@@ -1,0 +1,13 @@
+:root {
+    --title-text-color: #212121;
+    --text-color: #757575;
+    --activ-color: #2196F3;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}

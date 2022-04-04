@@ -51,7 +51,11 @@ line-height: 1.4;
 .btn {
 background-color: #2196F3;
 }
+.btn:hover {
+    background-color: rgba(33, 150, 243, 1);
+}
 .btn-text {
+    font-family: inherit;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
